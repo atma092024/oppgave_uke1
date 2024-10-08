@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/maretA/Development/c#/c#.csproj": {}
+    "/Users/maretA/Development/Oppgave_Uke_1/c#.csproj": {}
   },
   "projects": {
-    "/Users/maretA/Development/c#/c#.csproj": {
+    "/Users/maretA/Development/Oppgave_Uke_1/c#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/maretA/Development/c#/c#.csproj",
+        "projectUniqueName": "/Users/maretA/Development/Oppgave_Uke_1/c#.csproj",
         "projectName": "c#",
-        "projectPath": "/Users/maretA/Development/c#/c#.csproj",
+        "projectPath": "/Users/maretA/Development/Oppgave_Uke_1/c#.csproj",
         "packagesPath": "/Users/maretA/.nuget/packages/",
-        "outputPath": "/Users/maretA/Development/c#/obj/",
+        "outputPath": "/Users/maretA/Development/Oppgave_Uke_1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/maretA/.nuget/NuGet/NuGet.Config"

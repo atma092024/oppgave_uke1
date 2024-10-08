@@ -1,0 +1,15 @@
+/Users/maretA/Development/Oppgave_Uke_1/bin/Debug/net8.0/c#
+/Users/maretA/Development/Oppgave_Uke_1/bin/Debug/net8.0/c#.deps.json
+/Users/maretA/Development/Oppgave_Uke_1/bin/Debug/net8.0/c#.runtimeconfig.json
+/Users/maretA/Development/Oppgave_Uke_1/bin/Debug/net8.0/c#.dll
+/Users/maretA/Development/Oppgave_Uke_1/bin/Debug/net8.0/c#.pdb
+/Users/maretA/Development/Oppgave_Uke_1/obj/Debug/net8.0/c#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maretA/Development/Oppgave_Uke_1/obj/Debug/net8.0/c#.AssemblyInfoInputs.cache
+/Users/maretA/Development/Oppgave_Uke_1/obj/Debug/net8.0/c#.AssemblyInfo.cs
+/Users/maretA/Development/Oppgave_Uke_1/obj/Debug/net8.0/c#.csproj.CoreCompileInputs.cache
+/Users/maretA/Development/Oppgave_Uke_1/obj/Debug/net8.0/c#.sourcelink.json
+/Users/maretA/Development/Oppgave_Uke_1/obj/Debug/net8.0/c#.dll
+/Users/maretA/Development/Oppgave_Uke_1/obj/Debug/net8.0/refint/c#.dll
+/Users/maretA/Development/Oppgave_Uke_1/obj/Debug/net8.0/c#.pdb
+/Users/maretA/Development/Oppgave_Uke_1/obj/Debug/net8.0/c#.genruntimeconfig.cache
+/Users/maretA/Development/Oppgave_Uke_1/obj/Debug/net8.0/ref/c#.dll
